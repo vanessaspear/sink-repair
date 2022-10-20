@@ -1,0 +1,19 @@
+
+.field {
+    display: flex;
+    flex-direction: column;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.button_green {
+	color: white;
+    background-color: forestgreen;
+	font-family: "Comfortaa", Arial, sans-serif;
+	font-size: 14px;
+	line-height: 1.5;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
